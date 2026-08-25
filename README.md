@@ -231,5 +231,7 @@ FlutterUnit 对`大大小小，常用不常用`的组件能收的尽量收录。
 
 > `FlutterUnit 2.0 `目前基本就是这么多功能，可以在Github中下载打包后的apk玩玩
 希望能对你的Flutter学习有所帮助。
+2026.08.25 MADE BY RITA KELLY
+THAT IS POPULAR FULATTER PROJECT
 
 ---
